@@ -1,1 +1,3 @@
-Un suuuuuper readme (in english, les aminches)
+<<<<<<< HEAD
+Un vraiment suuuuuper readme (in in in english, les aminches)
+
