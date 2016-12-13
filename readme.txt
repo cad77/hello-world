@@ -1,3 +1,3 @@
 <<<<<<< HEAD
-Un vraiment suuuuuper readme (in in in english, les aminches)
+Un vraiment suuuuuper readme (plein d'infos utiles)
 
